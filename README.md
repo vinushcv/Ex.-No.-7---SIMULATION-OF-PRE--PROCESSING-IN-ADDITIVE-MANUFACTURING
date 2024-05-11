@@ -1,4 +1,4 @@
-# Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+# Ex. No. 6.1 - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
 ### DATE: 
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
@@ -45,8 +45,15 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/vinushcv/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113975318/ee43a00b-c91e-4e97-9dce-45aa3c729a77)
+
+
+![image](https://github.com/vinushcv/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113975318/3cdc5b80-c215-4cbf-a28d-8dd5396c9b14)
+
+
+
+### Name: Vinush.CV
+### Register Number: 212222230176
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
